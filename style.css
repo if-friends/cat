@@ -1,0 +1,21 @@
+.hello{
+    background: rgb(25, 0, 255);
+    background-size: cover;
+    font-size: 24px;
+color: rgb(255, 255, 255);
+padding: 20px;
+
+}
+
+.img{
+    background: url(q.jpg);
+        height: 300px;
+max-width: 400px;
+width: 100%;
+background-size: cover;
+margin: 0 auto;
+}
+.text{
+    text-align: center;
+    font-size: 40px;
+}
